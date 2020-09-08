@@ -1,4 +1,4 @@
-#refining oyster blast results to create a csv file of just the gene identifiers so I can run it through UniProKB
+refining oyster blast results to create a csv file of just the gene identifiers so I can run it through UniProKB
 
 > oysterblast <- read.delim("~/Desktop/RobertsLab/oysterblast.tab", header=FALSE)
 >   View(oysterblast)

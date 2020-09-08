@@ -6,4 +6,4 @@
 > shortGene <- substr(V2, 4, 9)
 > write.csv(shortGene, "shortGene.csv", row.names = FALSE)
 
-Blast results and gene ID file available [here](https://gannet.fish.washington.edu/lurida/OysterGeneSearch/)
+Blast results and gene ID file available (here)[https://gannet.fish.washington.edu/lurida/OysterGeneSearch/]
